@@ -9,3 +9,8 @@ Answer: Data Science could be applied to almost every field. For example in heal
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging shows the history of the branches and where merge happened  and rebasing just adds it back so it looks like it was written after whatever is in main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to having a less stressful semester with more time to study and practice for fewer classes.
+
