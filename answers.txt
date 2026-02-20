@@ -5,3 +5,7 @@ Answer: It helps us track code oer time and allows us to save different versions
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science could be applied to almost every field. For example in health care you can use data science to discover possible symptoms of a disease or test effectiveness of a drug.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging shows the history of the branches and where merge happened  and rebasing just adds it back so it looks like it was written after whatever is in main.
